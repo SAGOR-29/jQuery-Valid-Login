@@ -1,0 +1,12 @@
+body{
+	background-color: lightblue;
+}
+
+.form-group{
+			margin-bottom: 30px;
+			overflow: hidden;
+		}
+
+#name-message, #email-message, #password-message{
+			color: red;
+		}
